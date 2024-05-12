@@ -18,7 +18,7 @@ This project enables conversational interaction with PDF documents using the Ret
 - **Python**: Programming language used for development.
 - **Streamlit**: Web application framework for building interactive web applications.
 - **PyPDF2**: Python library for reading PDF files.
-- **Langchain**: Framework for developing RAG using LLM.
+- **Langchain**: Framework for developing RAG model using LLM.
 - **FAISS**: Library for efficient similarity search and clustering of dense vectors.
 - **Anthropic**: API for claude-3-sonnet-20240229 LLM.
 
