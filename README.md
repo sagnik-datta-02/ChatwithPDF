@@ -14,6 +14,14 @@ This project enables conversational interaction with PDF documents using the Ret
 
 - **Conversational Interface**: Utilizes the RAG model to generate responses to user queries in a conversational manner.
 
+## Tech Stack
+Python: Programming language used for development.
+Streamlit: Web application framework for building interactive web applications.
+PyPDF2: Python library for reading PDF files.
+langchain: Library for natural language processing tasks.
+FAISS: Library for efficient similarity search and clustering of dense vectors.
+Anthropic: API for claude-3-sonnet-20240229 LLM.
+
 ## Installation
 
 To run this project locally, follow these steps:
